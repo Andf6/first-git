@@ -1,1 +1,5 @@
-hello java hello java 
+hello java hello java
+public static void main(String agrs[]){
+	sout(123)
+}
+
